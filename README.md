@@ -1,5 +1,5 @@
 # This repository is a collection of several school projects
-**Please do not copy or redistribute code from this repository**
+**Please do not copy or redistribute code from this repository.**
 
 ### [Expectation Maximization](https://github.com/Squeemos/SchoolProjects/tree/main/ExpectationMaximization)
 This project was to implement and work with with Gaussian Mixture Models and Expectation Maximization. Additional parts of this project were to write our own implementation of KMeans++

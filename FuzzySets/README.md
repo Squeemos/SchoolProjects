@@ -1,0 +1,16 @@
+#### Contents
+- A "library" for:
+    - Creating fuzzy sets of different types
+        - Empty
+        - Singleton
+        - Interval
+        - Triangular
+        - Trapozoidal
+        - Custom function
+    - Implication of two fuzzy sets with a function
+    - Creation of a Takagi-Sugeno Fuzzy Inference System (FIS) with custom output rules
+    - Ability to approximate a function using a Takagi-Sugeno FIS
+- Some examples of the "library" including:
+    - Using Lukasiewicz, Larson, and Gorguen implication
+    - Creating a Takagi-Sugeno FIS with sample output rules
+    - Approximation of several example functions with a Takagi-Sugeno FIS and plotting of it

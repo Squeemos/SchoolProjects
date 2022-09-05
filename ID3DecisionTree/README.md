@@ -1,0 +1,15 @@
+#### Contents
+- Helper functions for:
+    - Calculating entropy from a list
+    - Calculating the total entropy of a dataset
+    - Calculating the entropy of a specific attribute
+- Creating the ID3 tree
+- Classifying a pandas Series from an ID3 tree
+- Computing the accuracy of a tree with sample dataframe
+- Visualizing the ID3 tree [from this stack overflow implementation](https://stackoverflow.com/questions/13688410/dictionary-object-to-decision-tree-in-pydot)
+- Computation of accuracy on Tennis dataset with sample points
+- Computation of accuracy on Personal Loan dataset after some preprocessing
+    - Removal of duplicates
+    - Removal of statistical outliers
+- Computation of accuracy on Personal Loan dataset with different training sizes
+- Computation of accuracy on Personal Loan dataset with different maximum tree depth

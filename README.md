@@ -75,7 +75,7 @@ This project was to implement an ID3 Decision Tree on a Tennis dataset and a Per
 - Computation of accuracy on Personal Loan dataset with different maximum tree depth
 
 ### [LSGAN](https://github.com/Squeemos/SchoolProjects/tree/main/LSGAN)
-This project was an implementation of a Least-Squares Generative Adversarial Network (LSGAN) to generate cat faces from [this cat face dataset(https://www.kaggle.com/datasets/spandan2/cats-faces-64x64-for-generative-models)
+This project was an implementation of a Least-Squares Generative Adversarial Network (LSGAN) to generate cat faces from [this cat face dataset](https://www.kaggle.com/datasets/spandan2/cats-faces-64x64-for-generative-models)
 
 ### [Pokemon Dataset Analysis](https://github.com/Squeemos/SchoolProjects/tree/main/PokemonDataAnalysis)
 

@@ -1,0 +1,18 @@
+### Contents
+- Function to sort numpy array by columns
+- Kmeans++ given a pandas DataFrame or Numpy array
+- The Expectation Maximization implementation itself
+    - A set of points (either a pandas DataFrame or Numpy array)
+    - The number of clusters to generate
+    - Maximum iterations
+    - Tolerance for the algorithm to end computation early at
+    - Inital centroids for the algorithm, if not provided will use my Kmeans++ implementation
+    - Initial covariance Matrix for each centroid (optional)
+    - Initial probability distribution for the points, if not provided will use uniform distribution
+- Prediction function
+    - A set of points as a pandas DataFrame or Numpy array
+    - The centroids to classify by
+    - The covariance matrix after clustering
+    - The probability distribution after clustering
+- Two functions for plotting the GMM used from [this stack overflow implementation](https://stackoverflow.com/questions/26999145/matplotlib-making-2d-gaussian-contours-with-transparent-outermost-layer)
+- After implementation, analysis on a provided dataset was done using heatmaps, then a comparison between my implementation and SciKitLearn's implementation, and finally a comparison of using GMM and KMeans on the same dataset, and showing that GMM handles this data better than KMM due to non-spherical data

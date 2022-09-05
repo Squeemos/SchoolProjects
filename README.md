@@ -17,9 +17,13 @@ This project was to implement an ID3 Decision Tree on a Tennis dataset and a Per
 ### [LSGAN](https://github.com/Squeemos/SchoolProjects/tree/main/LSGAN)
 This project was an implementation of a Least-Squares Generative Adversarial Network (LSGAN) to generate cat faces from [this cat face dataset](https://www.kaggle.com/datasets/spandan2/cats-faces-64x64-for-generative-models)
 
+### [Lightning Data Clustering](https://github.com/Squeemos/SchoolProjects/tree/main/LightningDataClustering)
+
 ### [Pokemon Dataset Analysis](https://github.com/Squeemos/SchoolProjects/tree/main/PokemonDataAnalysis)
 
 ### [SVM and Agglomerative Clustering](https://github.com/Squeemos/SchoolProjects/tree/main/SVMandAgglomerativeClustering)
+
+### [Shovel Knight Reinforcement Learning with Object Detection](https://github.com/Squeemos/SchoolProjects/tree/main/ShovelKnightReinforcementLearning)
 
 ### [SVD with images](https://github.com/Squeemos/SchoolProjects/tree/main/SingularValueDecomposition)
 

@@ -1,4 +1,4 @@
-#### Contents
+### Contents
 - A "library" for:
     - Creating fuzzy sets of different types
         - Empty

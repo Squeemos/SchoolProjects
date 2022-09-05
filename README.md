@@ -1,5 +1,6 @@
 # This repository is a collection of several school projects
 **Please do not copy or redistribute code from this repository.**
+All datasets inside this repository are used for educational purposes. Please download them from the source if you plan on using them for purposes other than running these projects
 
 ### [Expectation Maximization](https://github.com/Squeemos/SchoolProjects/tree/main/ExpectationMaximization)
 This project was to implement and work with with Gaussian Mixture Models and Expectation Maximization. Additional parts of this project were to write our own implementation of KMeans++

@@ -1,4 +1,4 @@
-#### Contents
+### Contents
 - Helper functions for:
     - Calculating entropy from a list
     - Calculating the total entropy of a dataset
